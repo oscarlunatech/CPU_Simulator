@@ -7,5 +7,5 @@ This was for my Computer Architecture class. I think it was a week 3 lab but I r
 Later labs delved into concepts such as pipelining, branch prediction, and CPU Caches. 
 This was one of my favorite classes as I felt like I finally understood how the heart of a computer works.
 
-One day I'mm get around to building Ben Eaters physical implementation of this
+One day I'll get around to building Ben Eaters physical implementation of this
 https://eater.net/8bit
